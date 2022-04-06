@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivk131&label=Profile%20views&color=0e75b6&style=flat" alt="ivk131" /> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **javaScript, React, Redux,**
+- 💬 Ask me about **javaScript, React, Redux, Node.js, Express, Mongodb**
 
 - 📫 How to reach me **vkiiitk@gmail.com**
 
