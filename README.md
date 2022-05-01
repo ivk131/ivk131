@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">Job seeker (MERN Developer ) From India</h3>
+<h3 align="center">Job seeker (Fronted Developer ) From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivk131&label=Profile%20views&color=0e75b6&style=flat" alt="ivk131" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **javaScript, React, Redux, Node.js, Express, Mongodb**
+- 💬 Ask me about **javaScript, React, Redux,Typescript,Next.js Node.js, Express, Mongodb**
 
 - 📫 How to reach me **vkiiitk@gmail.com**
 
