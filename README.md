@@ -25,9 +25,9 @@
    <li>Node.js</li>
    <li>Express.js</li>
    <li>Mongodb</li>
-   
    <li>Next.js</li>
   <li>Git</li>
+  <li>CI/CD</li>
 
 </ul>
 <p align="left"> </p>
